@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ugo-en
-- 👀 I’m interested in Python, Java, Android Studio, Flutter and A.I
-- 🌱 I’m currently learning Flutter, Android Studio, A.I
-- 💞️ I’m looking to collaborate on A.I Projects
+- 👀 I’m interested in Python, JavaScript and Mobile App Development
+- 🌱 I’m currently learning PHP & Wordpress
+- 💞️ I’m looking to collaborate on any interesting projects
 - 📫 How to reach me: Instagram @ugo_en, Twitter @UgoEN1
 
 <!---
